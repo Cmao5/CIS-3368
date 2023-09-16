@@ -39,8 +39,8 @@ data = [
 {'id': 9, 'Seller': 'Arthur', 'Product': 'Nintendo Switch', 'Quantity': 30, 'Price': 299.00},
 ]
 
-# Reference from ChatGPT generated example, using the example templet to apply my data in it
-# Created a calculation Module by showing each seller and what product they are selling 
+# Reference from ChatGPT to get an example with the instruction using(James,John,and Jack Templet), then applying my (Gregory,Laslow,and Arthur) what I learned from the example to my own data
+# Created a list to calculation Module by showing each seller and what product they are selling 
 def calculate_total_sales(seller_name):
     seller_data = {
         'Gregory': [
