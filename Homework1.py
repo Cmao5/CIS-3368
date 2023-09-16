@@ -53,7 +53,7 @@ def calculate_total_sales(seller_name):
             {'Product': 'Red Dead Redemption 2', 'Quantity': 20, 'Price': 60.00},
              {'Product':'LA Norie' , 'Quantity':10 , 'Price':40.00} 
         ],
-        'Jack': [
+        'Arthur': [
             {'Product': 'Xbox Series X', 'Quantity': 20, 'Price': 499.00},
             {'Product': 'Playstation 5', 'Quantity': 40, 'Price': 500.00},
             {'Product':'Nintendo Switch' , 'Quantity':30 , 'Price':299.00}
