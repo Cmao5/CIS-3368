@@ -1,4 +1,4 @@
-/* Calvin Mao */
+/* Calvin Mao,2019125,CIS 3368, Saturday 11AM-1PM, Otto Dobretsberger */
 show databases;
 
 
