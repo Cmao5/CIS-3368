@@ -1,3 +1,4 @@
+# Calvin Mao, 2019125, CIS3368, Saturday 11 AM-1 PM, Otto Dobretsberger
 import mysql.connector
 from mysql.connector import Error
 # Reference from TA during Class week 3 demonstration
