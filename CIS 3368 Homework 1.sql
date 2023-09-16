@@ -1,7 +1,6 @@
 /* Calvin Mao */
 show databases;
 
-create database cis3368falldb;
 
 use cis3368falldb;
 /* Reference from Techonthenet.com SQL tutorial */
