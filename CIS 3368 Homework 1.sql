@@ -1,3 +1,4 @@
+/* Calvin Mao */
 show databases;
 
 create database cis3368falldb;
